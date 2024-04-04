@@ -3,12 +3,12 @@
 This is a dump of excellent Ps3xploit Team [bgtoolset](https://www.ps3xploit.net/bgtoolset/). **I'm not an author of any of these tools**, all credits go to
 Ps3xploit team. If you find these tools useful, please consider a donation via Paypal at team@ps3xploit.net or in BTC at either of the addresses below:
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Legacy P2PKH](assets/images/qr-legacy-P2PKH.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Segwit BECH32](assets/images/qr-native-segwit-BECH32.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PayNyms](assets/images/qr-PayNyms.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Legacy P2PKH]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Segwit BECH32]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PayNyms]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|:---:|:---:|
 | Legacy P2PKH | Segwit BECH32 | PayNyms |
 
 <p align="center">
-<b>Supported versions: 4.80 - 4.88</b>
+<b>Supported versions: 4.80 - 4.88 (NOT WORKING ANYMORE)</b>
 </p>
 
 ## IMPORTANT INFO, please read carefuly.
